@@ -4,4 +4,5 @@ This is an adhoc website
 
 ## Repository Purpose
 
-To create a conflict - this was added on the local side
+
+this was added on the local side
